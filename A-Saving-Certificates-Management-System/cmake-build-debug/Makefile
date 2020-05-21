@@ -122,6 +122,87 @@ A_Saving_Certificates_Management_System/fast:
 	$(MAKE) -f CMakeFiles\A_Saving_Certificates_Management_System.dir\build.make CMakeFiles/A_Saving_Certificates_Management_System.dir/build
 .PHONY : A_Saving_Certificates_Management_System/fast
 
+Certificate.obj: Certificate.cpp.obj
+
+.PHONY : Certificate.obj
+
+# target to build an object file
+Certificate.cpp.obj:
+	$(MAKE) -f CMakeFiles\A_Saving_Certificates_Management_System.dir\build.make CMakeFiles/A_Saving_Certificates_Management_System.dir/Certificate.cpp.obj
+.PHONY : Certificate.cpp.obj
+
+Certificate.i: Certificate.cpp.i
+
+.PHONY : Certificate.i
+
+# target to preprocess a source file
+Certificate.cpp.i:
+	$(MAKE) -f CMakeFiles\A_Saving_Certificates_Management_System.dir\build.make CMakeFiles/A_Saving_Certificates_Management_System.dir/Certificate.cpp.i
+.PHONY : Certificate.cpp.i
+
+Certificate.s: Certificate.cpp.s
+
+.PHONY : Certificate.s
+
+# target to generate assembly for a file
+Certificate.cpp.s:
+	$(MAKE) -f CMakeFiles\A_Saving_Certificates_Management_System.dir\build.make CMakeFiles/A_Saving_Certificates_Management_System.dir/Certificate.cpp.s
+.PHONY : Certificate.cpp.s
+
+CertificateOwner.obj: CertificateOwner.cpp.obj
+
+.PHONY : CertificateOwner.obj
+
+# target to build an object file
+CertificateOwner.cpp.obj:
+	$(MAKE) -f CMakeFiles\A_Saving_Certificates_Management_System.dir\build.make CMakeFiles/A_Saving_Certificates_Management_System.dir/CertificateOwner.cpp.obj
+.PHONY : CertificateOwner.cpp.obj
+
+CertificateOwner.i: CertificateOwner.cpp.i
+
+.PHONY : CertificateOwner.i
+
+# target to preprocess a source file
+CertificateOwner.cpp.i:
+	$(MAKE) -f CMakeFiles\A_Saving_Certificates_Management_System.dir\build.make CMakeFiles/A_Saving_Certificates_Management_System.dir/CertificateOwner.cpp.i
+.PHONY : CertificateOwner.cpp.i
+
+CertificateOwner.s: CertificateOwner.cpp.s
+
+.PHONY : CertificateOwner.s
+
+# target to generate assembly for a file
+CertificateOwner.cpp.s:
+	$(MAKE) -f CMakeFiles\A_Saving_Certificates_Management_System.dir\build.make CMakeFiles/A_Saving_Certificates_Management_System.dir/CertificateOwner.cpp.s
+.PHONY : CertificateOwner.cpp.s
+
+Date.obj: Date.cpp.obj
+
+.PHONY : Date.obj
+
+# target to build an object file
+Date.cpp.obj:
+	$(MAKE) -f CMakeFiles\A_Saving_Certificates_Management_System.dir\build.make CMakeFiles/A_Saving_Certificates_Management_System.dir/Date.cpp.obj
+.PHONY : Date.cpp.obj
+
+Date.i: Date.cpp.i
+
+.PHONY : Date.i
+
+# target to preprocess a source file
+Date.cpp.i:
+	$(MAKE) -f CMakeFiles\A_Saving_Certificates_Management_System.dir\build.make CMakeFiles/A_Saving_Certificates_Management_System.dir/Date.cpp.i
+.PHONY : Date.cpp.i
+
+Date.s: Date.cpp.s
+
+.PHONY : Date.s
+
+# target to generate assembly for a file
+Date.cpp.s:
+	$(MAKE) -f CMakeFiles\A_Saving_Certificates_Management_System.dir\build.make CMakeFiles/A_Saving_Certificates_Management_System.dir/Date.cpp.s
+.PHONY : Date.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -158,6 +239,15 @@ help:
 	@echo ... A_Saving_Certificates_Management_System
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... Certificate.obj
+	@echo ... Certificate.i
+	@echo ... Certificate.s
+	@echo ... CertificateOwner.obj
+	@echo ... CertificateOwner.i
+	@echo ... CertificateOwner.s
+	@echo ... Date.obj
+	@echo ... Date.i
+	@echo ... Date.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

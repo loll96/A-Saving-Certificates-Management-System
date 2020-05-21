@@ -69,19 +69,64 @@ CMakeFiles/A_Saving_Certificates_Management_System.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/A_Saving_Certificates_Management_System.dir/main.cpp.s"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\T\New folder\Fuck\Y5\2nd term\OOP\A-Saving-Certificates-Management-System\A-Saving-Certificates-Management-System\main.cpp" -o CMakeFiles\A_Saving_Certificates_Management_System.dir\main.cpp.s
 
+CMakeFiles/A_Saving_Certificates_Management_System.dir/CertificateOwner.cpp.obj: CMakeFiles/A_Saving_Certificates_Management_System.dir/flags.make
+CMakeFiles/A_Saving_Certificates_Management_System.dir/CertificateOwner.cpp.obj: ../CertificateOwner.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\T\New folder\Fuck\Y5\2nd term\OOP\A-Saving-Certificates-Management-System\A-Saving-Certificates-Management-System\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/A_Saving_Certificates_Management_System.dir/CertificateOwner.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\A_Saving_Certificates_Management_System.dir\CertificateOwner.cpp.obj -c "C:\T\New folder\Fuck\Y5\2nd term\OOP\A-Saving-Certificates-Management-System\A-Saving-Certificates-Management-System\CertificateOwner.cpp"
+
+CMakeFiles/A_Saving_Certificates_Management_System.dir/CertificateOwner.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/A_Saving_Certificates_Management_System.dir/CertificateOwner.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\T\New folder\Fuck\Y5\2nd term\OOP\A-Saving-Certificates-Management-System\A-Saving-Certificates-Management-System\CertificateOwner.cpp" > CMakeFiles\A_Saving_Certificates_Management_System.dir\CertificateOwner.cpp.i
+
+CMakeFiles/A_Saving_Certificates_Management_System.dir/CertificateOwner.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/A_Saving_Certificates_Management_System.dir/CertificateOwner.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\T\New folder\Fuck\Y5\2nd term\OOP\A-Saving-Certificates-Management-System\A-Saving-Certificates-Management-System\CertificateOwner.cpp" -o CMakeFiles\A_Saving_Certificates_Management_System.dir\CertificateOwner.cpp.s
+
+CMakeFiles/A_Saving_Certificates_Management_System.dir/Date.cpp.obj: CMakeFiles/A_Saving_Certificates_Management_System.dir/flags.make
+CMakeFiles/A_Saving_Certificates_Management_System.dir/Date.cpp.obj: ../Date.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\T\New folder\Fuck\Y5\2nd term\OOP\A-Saving-Certificates-Management-System\A-Saving-Certificates-Management-System\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/A_Saving_Certificates_Management_System.dir/Date.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\A_Saving_Certificates_Management_System.dir\Date.cpp.obj -c "C:\T\New folder\Fuck\Y5\2nd term\OOP\A-Saving-Certificates-Management-System\A-Saving-Certificates-Management-System\Date.cpp"
+
+CMakeFiles/A_Saving_Certificates_Management_System.dir/Date.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/A_Saving_Certificates_Management_System.dir/Date.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\T\New folder\Fuck\Y5\2nd term\OOP\A-Saving-Certificates-Management-System\A-Saving-Certificates-Management-System\Date.cpp" > CMakeFiles\A_Saving_Certificates_Management_System.dir\Date.cpp.i
+
+CMakeFiles/A_Saving_Certificates_Management_System.dir/Date.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/A_Saving_Certificates_Management_System.dir/Date.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\T\New folder\Fuck\Y5\2nd term\OOP\A-Saving-Certificates-Management-System\A-Saving-Certificates-Management-System\Date.cpp" -o CMakeFiles\A_Saving_Certificates_Management_System.dir\Date.cpp.s
+
+CMakeFiles/A_Saving_Certificates_Management_System.dir/Certificate.cpp.obj: CMakeFiles/A_Saving_Certificates_Management_System.dir/flags.make
+CMakeFiles/A_Saving_Certificates_Management_System.dir/Certificate.cpp.obj: ../Certificate.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\T\New folder\Fuck\Y5\2nd term\OOP\A-Saving-Certificates-Management-System\A-Saving-Certificates-Management-System\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/A_Saving_Certificates_Management_System.dir/Certificate.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\A_Saving_Certificates_Management_System.dir\Certificate.cpp.obj -c "C:\T\New folder\Fuck\Y5\2nd term\OOP\A-Saving-Certificates-Management-System\A-Saving-Certificates-Management-System\Certificate.cpp"
+
+CMakeFiles/A_Saving_Certificates_Management_System.dir/Certificate.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/A_Saving_Certificates_Management_System.dir/Certificate.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\T\New folder\Fuck\Y5\2nd term\OOP\A-Saving-Certificates-Management-System\A-Saving-Certificates-Management-System\Certificate.cpp" > CMakeFiles\A_Saving_Certificates_Management_System.dir\Certificate.cpp.i
+
+CMakeFiles/A_Saving_Certificates_Management_System.dir/Certificate.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/A_Saving_Certificates_Management_System.dir/Certificate.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\T\New folder\Fuck\Y5\2nd term\OOP\A-Saving-Certificates-Management-System\A-Saving-Certificates-Management-System\Certificate.cpp" -o CMakeFiles\A_Saving_Certificates_Management_System.dir\Certificate.cpp.s
+
 # Object files for target A_Saving_Certificates_Management_System
 A_Saving_Certificates_Management_System_OBJECTS = \
-"CMakeFiles/A_Saving_Certificates_Management_System.dir/main.cpp.obj"
+"CMakeFiles/A_Saving_Certificates_Management_System.dir/main.cpp.obj" \
+"CMakeFiles/A_Saving_Certificates_Management_System.dir/CertificateOwner.cpp.obj" \
+"CMakeFiles/A_Saving_Certificates_Management_System.dir/Date.cpp.obj" \
+"CMakeFiles/A_Saving_Certificates_Management_System.dir/Certificate.cpp.obj"
 
 # External object files for target A_Saving_Certificates_Management_System
 A_Saving_Certificates_Management_System_EXTERNAL_OBJECTS =
 
 A_Saving_Certificates_Management_System.exe: CMakeFiles/A_Saving_Certificates_Management_System.dir/main.cpp.obj
+A_Saving_Certificates_Management_System.exe: CMakeFiles/A_Saving_Certificates_Management_System.dir/CertificateOwner.cpp.obj
+A_Saving_Certificates_Management_System.exe: CMakeFiles/A_Saving_Certificates_Management_System.dir/Date.cpp.obj
+A_Saving_Certificates_Management_System.exe: CMakeFiles/A_Saving_Certificates_Management_System.dir/Certificate.cpp.obj
 A_Saving_Certificates_Management_System.exe: CMakeFiles/A_Saving_Certificates_Management_System.dir/build.make
 A_Saving_Certificates_Management_System.exe: CMakeFiles/A_Saving_Certificates_Management_System.dir/linklibs.rsp
 A_Saving_Certificates_Management_System.exe: CMakeFiles/A_Saving_Certificates_Management_System.dir/objects1.rsp
 A_Saving_Certificates_Management_System.exe: CMakeFiles/A_Saving_Certificates_Management_System.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\T\New folder\Fuck\Y5\2nd term\OOP\A-Saving-Certificates-Management-System\A-Saving-Certificates-Management-System\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable A_Saving_Certificates_Management_System.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\T\New folder\Fuck\Y5\2nd term\OOP\A-Saving-Certificates-Management-System\A-Saving-Certificates-Management-System\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable A_Saving_Certificates_Management_System.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\A_Saving_Certificates_Management_System.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

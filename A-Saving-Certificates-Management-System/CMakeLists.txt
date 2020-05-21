@@ -3,4 +3,4 @@ project(A_Saving_Certificates_Management_System)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(A_Saving_Certificates_Management_System main.cpp)
+add_executable(A_Saving_Certificates_Management_System main.cpp CertificateOwner.cpp CertificateOwner.h Date.cpp Date.h Certificate.cpp Certificate.h)

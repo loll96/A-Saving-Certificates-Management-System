@@ -4,6 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "C:/T/New folder/Fuck/Y5/2nd term/OOP/A-Saving-Certificates-Management-System/A-Saving-Certificates-Management-System/Certificate.cpp" "C:/T/New folder/Fuck/Y5/2nd term/OOP/A-Saving-Certificates-Management-System/A-Saving-Certificates-Management-System/cmake-build-debug/CMakeFiles/A_Saving_Certificates_Management_System.dir/Certificate.cpp.obj"
+  "C:/T/New folder/Fuck/Y5/2nd term/OOP/A-Saving-Certificates-Management-System/A-Saving-Certificates-Management-System/CertificateOwner.cpp" "C:/T/New folder/Fuck/Y5/2nd term/OOP/A-Saving-Certificates-Management-System/A-Saving-Certificates-Management-System/cmake-build-debug/CMakeFiles/A_Saving_Certificates_Management_System.dir/CertificateOwner.cpp.obj"
+  "C:/T/New folder/Fuck/Y5/2nd term/OOP/A-Saving-Certificates-Management-System/A-Saving-Certificates-Management-System/Date.cpp" "C:/T/New folder/Fuck/Y5/2nd term/OOP/A-Saving-Certificates-Management-System/A-Saving-Certificates-Management-System/cmake-build-debug/CMakeFiles/A_Saving_Certificates_Management_System.dir/Date.cpp.obj"
   "C:/T/New folder/Fuck/Y5/2nd term/OOP/A-Saving-Certificates-Management-System/A-Saving-Certificates-Management-System/main.cpp" "C:/T/New folder/Fuck/Y5/2nd term/OOP/A-Saving-Certificates-Management-System/A-Saving-Certificates-Management-System/cmake-build-debug/CMakeFiles/A_Saving_Certificates_Management_System.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
