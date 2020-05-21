@@ -1,4 +1,4 @@
-# Install script for directory: C:/T/New folder/Fuck/Y5/2nd term/OOP/A-Saving-Certificates-Management-System
+# Install script for directory: C:/T/New folder/Fuck/Y5/2nd term/OOP/A-Saving-Certificates-Management-System/A-Saving-Certificates-Management-System
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/T/New folder/Fuck/Y5/2nd term/OOP/A-Saving-Certificates-Management-System/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/T/New folder/Fuck/Y5/2nd term/OOP/A-Saving-Certificates-Management-System/A-Saving-Certificates-Management-System/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
