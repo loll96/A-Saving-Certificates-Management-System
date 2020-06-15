@@ -41,9 +41,8 @@ void Certificate :: applyCharges(int service_charges){
 
 string Certificate :: issueCreditCard(){
     applyCharges(150);
-    int i = 0;
     ostringstream result;
-    result << "1436-6451-9638-" << setfill('0') << setw(4) << i;
+    result << "1436-6451-9638-" << setfill('0') << setw(4) << i++;
     return result.str();
 }
 double Certificate :: redeem(){

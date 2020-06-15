@@ -19,6 +19,7 @@ protected:
 protected:
     double redeem();
 public:
+    static int i;
     Certificate(CertificateOwner C_O, Date date_purchase, int Duration, double CertificateAmount, double Annual_interest_rate, int Interests_Frequency_monthly);
 
     Certificate();

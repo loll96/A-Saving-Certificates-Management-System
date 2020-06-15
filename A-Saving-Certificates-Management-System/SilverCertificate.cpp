@@ -24,6 +24,14 @@ bool SilverCertificate :: Withdraw(double withdraw){
 }
 
 double SilverCertificate :: redeem(Date current_date){
+    Date d = this->date_purchase - current_date;
+    if(d / 1 > 6){
+        return Certificate :: redeem();
+    }
+    if(this->Duration < 12){
+        this->CertificateAmount -= double(d/1) * (1.0/100.1) * this->CertificateAmount;
+    }
+    return Certificate :: redeem();
     /*
     The function takes the current date as a parameter and returns the total of the certificate amount and
     current balance.

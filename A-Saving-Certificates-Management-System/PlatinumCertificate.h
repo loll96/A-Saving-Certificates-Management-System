@@ -9,7 +9,7 @@ using namespace std;
 
 class PlatinumCertificate : public Certificate {
 private:
-    Date date_purchase;
+
 public:
     PlatinumCertificate(CertificateOwner C_O, Date date_purchase, double CertificateAmount);
     bool Withdraw(double withdraw);
