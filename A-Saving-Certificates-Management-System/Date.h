@@ -11,10 +11,16 @@ private:
 public:
     Date(int day, int month, int year);
     Date();
-    void get_day(int day);
-    void get_month(int month);
-    void get_year(int year);
-    Date operator+(Date date);
+    int get_day();
+    int get_month();
+    int get_year();
+    void set_day(int day);
+    void set_month(int month);
+    void set_year(int year);
+    Date operator-(Date date);
+    int operator/(int x);
+    void display();
+    //int operator-(Date D);
 };
 
 

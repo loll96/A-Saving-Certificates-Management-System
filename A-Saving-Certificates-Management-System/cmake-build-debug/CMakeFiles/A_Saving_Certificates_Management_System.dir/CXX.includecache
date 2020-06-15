@@ -6,13 +6,49 @@
 
 #IncludeRegexTransform: 
 
-C:/T/New folder/Fuck/Y5/2nd term/OOP/A-Saving-Certificates-Management-System/A-Saving-Certificates-Management-System/CertificateOwner.cpp
-CertificateOwner.h
-C:/T/New folder/Fuck/Y5/2nd term/OOP/A-Saving-Certificates-Management-System/A-Saving-Certificates-Management-System/CertificateOwner.h
+C:/T/New folder/Fuck/Y5/2nd term/OOP/A-Saving-Certificates-Management-System/A-Saving-Certificates-Management-System/Certificate.cpp
+Certificate.h
+C:/T/New folder/Fuck/Y5/2nd term/OOP/A-Saving-Certificates-Management-System/A-Saving-Certificates-Management-System/Certificate.h
 iostream
 -
+
+C:/T/New folder/Fuck/Y5/2nd term/OOP/A-Saving-Certificates-Management-System/A-Saving-Certificates-Management-System/Certificate.h
+iostream
+-
+CertificateOwner.h
+C:/T/New folder/Fuck/Y5/2nd term/OOP/A-Saving-Certificates-Management-System/A-Saving-Certificates-Management-System/CertificateOwner.h
+Date.h
+C:/T/New folder/Fuck/Y5/2nd term/OOP/A-Saving-Certificates-Management-System/A-Saving-Certificates-Management-System/Date.h
 
 C:/T/New folder/Fuck/Y5/2nd term/OOP/A-Saving-Certificates-Management-System/A-Saving-Certificates-Management-System/CertificateOwner.h
 iostream
 -
+
+C:/T/New folder/Fuck/Y5/2nd term/OOP/A-Saving-Certificates-Management-System/A-Saving-Certificates-Management-System/Date.h
+iostream
+-
+
+C:/T/New folder/Fuck/Y5/2nd term/OOP/A-Saving-Certificates-Management-System/A-Saving-Certificates-Management-System/PlatinumCertificate.cpp
+iostream
+-
+PlatinumCertificate.h
+C:/T/New folder/Fuck/Y5/2nd term/OOP/A-Saving-Certificates-Management-System/A-Saving-Certificates-Management-System/PlatinumCertificate.h
+
+C:/T/New folder/Fuck/Y5/2nd term/OOP/A-Saving-Certificates-Management-System/A-Saving-Certificates-Management-System/PlatinumCertificate.h
+iostream
+-
+
+C:/T/New folder/Fuck/Y5/2nd term/OOP/A-Saving-Certificates-Management-System/A-Saving-Certificates-Management-System/SilverCertificate.cpp
+SilverCertificate.h
+C:/T/New folder/Fuck/Y5/2nd term/OOP/A-Saving-Certificates-Management-System/A-Saving-Certificates-Management-System/SilverCertificate.h
+
+C:/T/New folder/Fuck/Y5/2nd term/OOP/A-Saving-Certificates-Management-System/A-Saving-Certificates-Management-System/SilverCertificate.h
+
+C:/T/New folder/Fuck/Y5/2nd term/OOP/A-Saving-Certificates-Management-System/A-Saving-Certificates-Management-System/main.cpp
+iostream
+-
+CertificateOwner.h
+C:/T/New folder/Fuck/Y5/2nd term/OOP/A-Saving-Certificates-Management-System/A-Saving-Certificates-Management-System/CertificateOwner.h
+Date.h
+C:/T/New folder/Fuck/Y5/2nd term/OOP/A-Saving-Certificates-Management-System/A-Saving-Certificates-Management-System/Date.h
 

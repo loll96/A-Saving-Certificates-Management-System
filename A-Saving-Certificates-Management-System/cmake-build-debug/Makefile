@@ -203,6 +203,60 @@ Date.cpp.s:
 	$(MAKE) -f CMakeFiles\A_Saving_Certificates_Management_System.dir\build.make CMakeFiles/A_Saving_Certificates_Management_System.dir/Date.cpp.s
 .PHONY : Date.cpp.s
 
+PlatinumCertificate.obj: PlatinumCertificate.cpp.obj
+
+.PHONY : PlatinumCertificate.obj
+
+# target to build an object file
+PlatinumCertificate.cpp.obj:
+	$(MAKE) -f CMakeFiles\A_Saving_Certificates_Management_System.dir\build.make CMakeFiles/A_Saving_Certificates_Management_System.dir/PlatinumCertificate.cpp.obj
+.PHONY : PlatinumCertificate.cpp.obj
+
+PlatinumCertificate.i: PlatinumCertificate.cpp.i
+
+.PHONY : PlatinumCertificate.i
+
+# target to preprocess a source file
+PlatinumCertificate.cpp.i:
+	$(MAKE) -f CMakeFiles\A_Saving_Certificates_Management_System.dir\build.make CMakeFiles/A_Saving_Certificates_Management_System.dir/PlatinumCertificate.cpp.i
+.PHONY : PlatinumCertificate.cpp.i
+
+PlatinumCertificate.s: PlatinumCertificate.cpp.s
+
+.PHONY : PlatinumCertificate.s
+
+# target to generate assembly for a file
+PlatinumCertificate.cpp.s:
+	$(MAKE) -f CMakeFiles\A_Saving_Certificates_Management_System.dir\build.make CMakeFiles/A_Saving_Certificates_Management_System.dir/PlatinumCertificate.cpp.s
+.PHONY : PlatinumCertificate.cpp.s
+
+SilverCertificate.obj: SilverCertificate.cpp.obj
+
+.PHONY : SilverCertificate.obj
+
+# target to build an object file
+SilverCertificate.cpp.obj:
+	$(MAKE) -f CMakeFiles\A_Saving_Certificates_Management_System.dir\build.make CMakeFiles/A_Saving_Certificates_Management_System.dir/SilverCertificate.cpp.obj
+.PHONY : SilverCertificate.cpp.obj
+
+SilverCertificate.i: SilverCertificate.cpp.i
+
+.PHONY : SilverCertificate.i
+
+# target to preprocess a source file
+SilverCertificate.cpp.i:
+	$(MAKE) -f CMakeFiles\A_Saving_Certificates_Management_System.dir\build.make CMakeFiles/A_Saving_Certificates_Management_System.dir/SilverCertificate.cpp.i
+.PHONY : SilverCertificate.cpp.i
+
+SilverCertificate.s: SilverCertificate.cpp.s
+
+.PHONY : SilverCertificate.s
+
+# target to generate assembly for a file
+SilverCertificate.cpp.s:
+	$(MAKE) -f CMakeFiles\A_Saving_Certificates_Management_System.dir\build.make CMakeFiles/A_Saving_Certificates_Management_System.dir/SilverCertificate.cpp.s
+.PHONY : SilverCertificate.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -248,6 +302,12 @@ help:
 	@echo ... Date.obj
 	@echo ... Date.i
 	@echo ... Date.s
+	@echo ... PlatinumCertificate.obj
+	@echo ... PlatinumCertificate.i
+	@echo ... PlatinumCertificate.s
+	@echo ... SilverCertificate.obj
+	@echo ... SilverCertificate.i
+	@echo ... SilverCertificate.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

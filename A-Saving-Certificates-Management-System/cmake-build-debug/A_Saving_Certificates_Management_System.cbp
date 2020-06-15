@@ -98,6 +98,18 @@
 		<Unit filename="C:/T/New folder/Fuck/Y5/2nd term/OOP/A-Saving-Certificates-Management-System/A-Saving-Certificates-Management-System/Date.h">
 			<Option target="A_Saving_Certificates_Management_System"/>
 		</Unit>
+		<Unit filename="C:/T/New folder/Fuck/Y5/2nd term/OOP/A-Saving-Certificates-Management-System/A-Saving-Certificates-Management-System/PlatinumCertificate.cpp">
+			<Option target="A_Saving_Certificates_Management_System"/>
+		</Unit>
+		<Unit filename="C:/T/New folder/Fuck/Y5/2nd term/OOP/A-Saving-Certificates-Management-System/A-Saving-Certificates-Management-System/PlatinumCertificate.h">
+			<Option target="A_Saving_Certificates_Management_System"/>
+		</Unit>
+		<Unit filename="C:/T/New folder/Fuck/Y5/2nd term/OOP/A-Saving-Certificates-Management-System/A-Saving-Certificates-Management-System/SilverCertificate.cpp">
+			<Option target="A_Saving_Certificates_Management_System"/>
+		</Unit>
+		<Unit filename="C:/T/New folder/Fuck/Y5/2nd term/OOP/A-Saving-Certificates-Management-System/A-Saving-Certificates-Management-System/SilverCertificate.h">
+			<Option target="A_Saving_Certificates_Management_System"/>
+		</Unit>
 		<Unit filename="C:/T/New folder/Fuck/Y5/2nd term/OOP/A-Saving-Certificates-Management-System/A-Saving-Certificates-Management-System/main.cpp">
 			<Option target="A_Saving_Certificates_Management_System"/>
 		</Unit>
