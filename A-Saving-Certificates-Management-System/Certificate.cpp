@@ -1,4 +1,3 @@
-
 #include "Certificate.h"
 #include <string>
 #include <sstream>

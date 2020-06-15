@@ -14,6 +14,10 @@ public:
     CertificateOwner();
     CertificateOwner(string first_name, string last_name, string Mobile_phone_number, string National_ID_number);
     void displayInfo();
+    string get_first_name();
+    string get_last_name();
+    string get_Mobile_phone_number();
+    string get_National_ID_number();
 };
 
 

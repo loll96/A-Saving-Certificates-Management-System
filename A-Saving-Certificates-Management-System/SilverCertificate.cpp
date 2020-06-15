@@ -28,8 +28,8 @@ double SilverCertificate :: redeem(Date current_date){
     if(d / 1 > 6){
         return Certificate :: redeem();
     }
-    if(this->Duration < 12){
-        this->CertificateAmount -= double(d/1) * (1.0/100.1) * this->CertificateAmount;
+    if(this->Duration < 6){
+        this->CertificateAmount -= double(d/1) * (0.5/100.1) * this->CertificateAmount;
     }
     return Certificate :: redeem();
     /*
